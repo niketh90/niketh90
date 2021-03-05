@@ -1,8 +1,8 @@
-# ✨ Niketh Sudhakaran GitHub profile ✨ 
+# ✨ Niketh Sudhakaran GitHub profile  ✨ 
 
 ![Niketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=niketh90&theme=dark&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niketh90&theme=dark&layout=compact)](https://github.com/niketh90/primary)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niketh90&theme=dark&layout=compact&count_private=true)](https://github.com/niketh90/niketh90)
 
 
 
